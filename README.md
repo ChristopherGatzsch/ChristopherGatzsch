@@ -1,16 +1,25 @@
-## Hi there 👋
+# Christopher Gatzsch
 
-<!--
-**ChristopherGatzsch/ChristopherGatzsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder working at the intersection of **AI, web, and storytelling**.
+I build the systems, ship the websites, and write the stories.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Pagecraft — Web & AI Studio
+**Founder & owner** of [Pagecraft](https://page-craft.de), a web-design studio for small businesses.
+
+- **Websites & web design** — modern, fast, mobile-first sites at fixed prices
+- **Care & maintenance** — ongoing site upkeep as a subscription
+- **In development — AI solutions:** voice agents, workflow automation, and custom dashboards & internal tools
+
+## 🤖 AI & Automation
+I design and build AI assistants and autonomous agents (Jarvis) — systems that do the work themselves: automation pipelines, data workflows, and voice interfaces.
+
+## 🎬 Film & Literature
+Several fully developed film concepts (horror / drama) and a book in progress — grounded in a deep knowledge of film, storytelling, and wide reading.
+
+---
+
+### 📫 Get in touch
+- 🌐 **[page-craft.de](https://page-craft.de)**
+- ✉️ **info@page-craft.de**
